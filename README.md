@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Dor 👋
 
-<!--
-**dorbenarie-code/dorbenarie-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year Information Systems (Cybersecurity) student who enjoys building
+real systems — not demos.
 
-Here are some ideas to get you started:
+Most of my work focuses on:
+- Security tooling and research frameworks
+- LLM-based systems with strict guardrails and evaluation
+- Hybrid retrieval pipelines (RAG, BM25, vector search)
+- Clean, testable backend design in Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like working close to the system:
+thinking about failure modes, observability, and how things behave
+when the inputs are noisy or untrusted.
+
+### Selected projects
+- **Agentic Sandbox** – Guarded code-execution and evaluation framework for LLM-based automated fixes  
+- **LinkShield** – Multi-signal URL threat scanner with deterministic risk scoring (FastAPI)  
+- **Escalation Hunter** – Linux privilege escalation risk auditor  
+- **Identity Harvester** – Active Directory / Kerberos research framework (isolated lab)
+
+I'm currently looking for a junior role where I can grow as a software engineer,
+security engineer, or work on LLM-based systems.
