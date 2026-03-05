@@ -1,23 +1,19 @@
 Hi, I'm Dor 👋
 
-I'm a final-year Information Systems (Cybersecurity) student who enjoys building
-real systems — not demos.
+I'm an Information Systems (Cybersecurity) student focused on backend engineering.
+I like building production-minded services — clean APIs, data persistence, and reliable integrations.
 
-Most of my work focuses on:
-- Security tooling and research frameworks
-- LLM-based systems with strict guardrails and evaluation
-- Hybrid retrieval pipelines (RAG, BM25, vector search)
-- Clean, testable backend design in Python
-
-I like working close to the system:
-thinking about failure modes, observability, and how things behave
-when the inputs are noisy or untrusted.
+What I work on:
+- Backend development in C#/.NET and Python (REST APIs, auth, validation, testing)
+- External API integrations (JSON/XML) and clear API documentation (Swagger/OpenAPI)
+- Dockerized local environments and practical observability (structured logging)
+- Security-minded engineering: safe defaults, threat-aware design, and data handling
 
 ### Selected projects
-- **Agentic Sandbox** – Guarded code-execution and evaluation framework for LLM-based automated fixes  
-- **LinkShield** – Multi-signal URL threat scanner with deterministic risk scoring (FastAPI)  
+- **TicTacToe Engine (C#/.NET)** – OOP game engine with a Minimax AI opponent and unit tests  
+- **LinkShield (FastAPI)** – URL threat scanner with deterministic risk scoring  
+- **Agentic Sandbox** – Guarded evaluation framework for automated code fixes  
 - **Escalation Hunter** – Linux privilege escalation risk auditor  
-- **Identity Harvester** – Active Directory / Kerberos research framework (isolated lab)
 
-I'm currently looking for a junior role where I can grow as a software engineer,
-security engineer, or work on LLM-based systems.
+I'm looking for a Junior Backend Developer role where I can grow on real systems:
+APIs, data stores, integrations, and performance-minded backend work.
