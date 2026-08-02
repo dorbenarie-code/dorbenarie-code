@@ -1,6 +1,6 @@
 # Hi, I'm Dor 👋
 
-I'm a Management Information Systems student focused on C#/.NET backend development.
+I'm a Management Information Systems focused on C#/.NET backend development.
 
 I build backend systems and reusable .NET libraries with a strong focus on ASP.NET Core, REST APIs, SQL Server, external integrations, validation-heavy business logic, authentication, rate limiting, and automated tests.
 
